@@ -1,0 +1,9 @@
+{
+  "name": "48hours",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
